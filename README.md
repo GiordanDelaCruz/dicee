@@ -3,4 +3,4 @@ This program rolls 2 dice and determines the winner based on the highest roll in
 
 Please feel free to check it the website with the link.
 
-Website URL: 
+Website URL: https://giordandelacruz.github.io/dicee/
